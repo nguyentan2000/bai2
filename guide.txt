@@ -1,0 +1,16 @@
+1. npm init -y
+2. chay chuong trinh moi lan 
+  npm start =node server
+3. npm install --save-dev nodemon
+  neu loi: window powershell > run as administrator >
+    Get-ExecutionPolicy
+    Set-ExecutionPolicy Unrestrict
+4. chay chuong trinh 1 lan duy nhat
+   nodemon server
+5. thoat khoi chuong trinh: ctrl + c  (y)
+6. npm install express ejs
+7.npm install mongoose -save
+
+## ghi de phuong thuc va cai dat bien moi truong
+1. npm install method-override
+1. npm install dotenv
